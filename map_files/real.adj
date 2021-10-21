@@ -1,0 +1,77 @@
+syr: arm smy eas 
+arm: sev bla ank smy
+smy: syr arm ank con aeg eas
+con: bul bla ank smy eas aeg
+bla: sev arm ank con bul rum
+eas: syr smy aeg ion
+aeg: eas ion gre bul con smy
+rum: sev ukr gal bud ser bul bla
+bul: aeg gre ser rum bla con
+gre: aeg eas ion alb ser bul
+alb: gre ion adr tri ser
+ser: alb tri bud rum bul gre
+tri: ven tyr vie bud ser alb adr
+bud: tri vie gal rum ser
+vie: boh gal bud tri tyr
+boh: mun sil gal vie tyr
+gal: bud vie boh sil war ukr rum
+tyr: swi pie ven tri vie boh mun
+ven: tyr tri adr apu rom tus pie
+pie: swi tyr ven tus gol mar
+tus: rom ven pie gol tyn
+rom: tus ven apu nap tyn
+nap: rom apu tyn ion
+apu: nap rom ven adr ion
+tun: naf wes tyn ion
+naf: tun wes mat
+por: mat spa
+spa: mat por wes gol mar gas
+gas: mar spa bre par bur mat
+mar: spa gas bur swi pie gol
+bur: mar gas par pic bel ruh mun swi
+par: pic bur gas bre
+pic: bre eng par bel bur
+bre: pic par gas mat eng
+bel: pic bur ruh hol nth eng
+hol: bel ruh kie hel nth
+ruh: mun bur bel hol kie
+mun: boh sil ber kie ruh bur swi tyr
+kie: hol hel den ber mun ruh
+ber: bal pru sil mun kie
+pru: bal lvn war sil ber
+sil: pru war gal boh mun ber
+war: pru lvn mos ukr gal sil
+ukr: mos sev rum gal war
+sev: mos arm bla rum ukr
+mos: stp sev ukr war lvn
+stp: bar mos lvn bot fin nwy
+lvn: pru war mos stp bot bal
+fin: nwy stp swe bot 
+swe: nwy fin bot bal den ska
+nwy: bar stp fin swe ska nth nrg
+den: ska swe bal kie hel nth 
+bar: stp nwy nrg
+nrg: bar nwy nth edi cly nat
+iri: nat liv wal eng mat
+eng: wal lon nth bel pic bre mat iri
+mat: nat iri eng bre gas spa por naf wes
+wes: spa gol tyn tun naf mat
+gol: mar pie tus tyn wes spa
+ion: nap apu adr alb gre aeg eas tun tyn
+yor: edi liv wal lon nth
+adr: ven tri alb ion apu
+ank: con bla smy arm
+swi: pie mar bur mun tyr
+edi: cly liv yor nrg nth
+lon: wal yor nth eng
+wal: lon yor liv iri eng
+liv: wal yor edi cly iri nat
+cly: liv edi nat nrg
+tyn: nap rom tus gol wes ion tun
+nth: nwy nrg edi yor lon eng bel hol hel den ska
+hel: nth hol kie den
+ska: nwy nth den swe
+bal: den swe bot lvn pru ber
+bot: bal swe fin stp lvn 
+nat: nrg cly liv iri mat
+limbo: limbo
